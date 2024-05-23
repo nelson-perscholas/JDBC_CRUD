@@ -1,4 +1,4 @@
-package org.example.model;
+package org.chang.glab30531.model;
 
 public class Books {
     private int id;
